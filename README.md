@@ -1,4 +1,4 @@
-# project-4
+# Breakout Game
 
 Hello !
 I chose to write my code for my version of a breakout game using pygame ! It was my first time using python as you can see on my github profile, I've only coded in C++ and JavaScript before. I had a lot of fun using the pygame library and working on the project overall! 
